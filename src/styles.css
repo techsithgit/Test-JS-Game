@@ -1,0 +1,13 @@
+.app {
+  background-color: rgb(53, 236, 68);
+  position: relative;
+  height: 300px;
+}
+
+.dot {
+  background-color: red;
+  height: 20px;
+  width: 20px;
+  border-radius: 10px;
+  position: absolute;
+}
